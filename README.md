@@ -9,7 +9,7 @@ Life-Trust Bank is a web-based banking application that allows users to manage t
 To run the Life-Trust Bank application locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/life-trust-bank.git
+git clone https://github.com/sakibb77/life-trust-bank.git
 
 2. Navigate to the project directory:
 cd life-trust-bank
